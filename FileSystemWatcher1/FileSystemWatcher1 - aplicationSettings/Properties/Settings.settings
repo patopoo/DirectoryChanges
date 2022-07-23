@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileSystemWatcher1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Filtro" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*.tmp</Value>
+    </Setting>
+    <Setting Name="Backup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\3001\Backup</Value>
+    </Setting>
+    <Setting Name="Directorio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\3001</Value>
+    </Setting>
+    <Setting Name="IPDest" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nxssrvst016</Value>
+    </Setting>
+    <Setting Name="PortDest" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4477</Value>
+    </Setting>
+    <Setting Name="FTPUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anonymous</Value>
+    </Setting>
+    <Setting Name="FTPPssw" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">correo@nexussa.cl</Value>
+    </Setting>
+    <Setting Name="LogFullPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\3001\Log\FileWatcher.Log</Value>
+    </Setting>
+    <Setting Name="DiasBackup" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="EliminaRO" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EnviosErroneos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\3001\EnviosErroneos</Value>
+    </Setting>
+    <Setting Name="LogPathXML" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Temp\3001\app\FileSystemWatcher1.xml</Value>
+    </Setting>
+    <Setting Name="MilisecsBorrado" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TipoOeracion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TCP</Value>
+    </Setting>
+    <Setting Name="NombreApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FileWatcher</Value>
+    </Setting>
+    <Setting Name="MilisecsToWait" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MilisecsKeyboard" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MilisecsBorrar" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AccionBackup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">R</Value>
+    </Setting>
+    <Setting Name="aaasz" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ddd</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
